@@ -1,7 +1,24 @@
 # 七月在线，Python题库，使用新浪weibo账号登录
 
 ## 绿框为正确答案，红框为错误答案
-
+<img src="1.jpg" width="60%" height="60%" alt="1"/><br />
+<img src="2.jpg" width="60%" height="60%" alt="2"/><br />
+<img src="3.jpg" width="60%" height="60%" alt="3"/><br />
+<img src="4.jpg" width="60%" height="60%" alt="4"/><br />
+<img src="5.jpg" width="60%" height="60%" alt="5"/><br />
+<img src="6.jpg" width="60%" height="60%" alt="6"/><br />
+<img src="7.jpg" width="60%" height="60%" alt="7"/><br />
+<img src="8.jpg" width="60%" height="60%" alt="8"/><br />
+<img src="9.jpg" width="60%" height="60%" alt="9"/><br />
+<img src="10.jpg" width="60%" height="60%" alt="10"/><br />
+<img src="11.jpg" width="60%" height="60%" alt="11"/><br />
+<img src="12.jpg" width="60%" height="60%" alt="12"/><br />
+<img src="13.jpg" width="60%" height="60%" alt="13"/><br />
+<img src="14.jpg" width="60%" height="60%" alt="14"/><br />
+<img src="15.jpg" width="60%" height="60%" alt="15"/><br />
+<img src="16.jpg" width="60%" height="60%" alt="16"/><br />
+<img src="17.jpg" width="60%" height="60%" alt="17"/><br />
+<img src="18.jpg" width="60%" height="60%" alt="18"/><br />
 ## 从错题中学习到的知识点
 ### isinstance() 与 type() 区别
 type() 不会认为子类是一种父类类型，不考虑继承关系。<br />
