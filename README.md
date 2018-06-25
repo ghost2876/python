@@ -6,6 +6,8 @@ https://www.julyedu.com/question/index/type/2
 ### 借用刷Leetcode来练习Python coding
 06/24/2018: 1. Two Sum, 
 
+### Runoob, Python练习 100例
+链接：http://www.runoob.com/python/python-100-examples.html
 
 ### what is the difference between NumPy and Pandas?
 NumPy: calculation on data like matrix multiply, etc.<br />
