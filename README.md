@@ -15,3 +15,6 @@ Pandas: load and format data<br />
 
 ### largest data amount you handled
 see BMA-2.docx Bayer Project<br />
+
+### Python常用函数等总结
+参见《python_notebook.ipynb》下“Python常用函数总结试验”一节，必要的时候可以搜索关键字查阅<br />
