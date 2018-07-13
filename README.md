@@ -5,6 +5,7 @@ https://www.julyedu.com/question/index/type/2
 
 ### 借用刷Leetcode来练习Python coding
 06/24/2018: 1. Two Sum, Largest Number
+07/05/2018: 2. Add Two Numbers
 
 ### Python 3的基础语法练习，参见Runoob
 链接：http://www.runoob.com/python3/<br />
